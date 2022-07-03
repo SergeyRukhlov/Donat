@@ -1,0 +1,15 @@
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/bin/Debug/net6.0/Donat3
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/bin/Debug/net6.0/Donat3.deps.json
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/bin/Debug/net6.0/Donat3.runtimeconfig.json
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/bin/Debug/net6.0/Donat3.dll
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/bin/Debug/net6.0/Donat3.pdb
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/obj/Debug/net6.0/Donat3.csproj.AssemblyReference.cache
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/obj/Debug/net6.0/Donat3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/obj/Debug/net6.0/Donat3.AssemblyInfoInputs.cache
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/obj/Debug/net6.0/Donat3.AssemblyInfo.cs
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/obj/Debug/net6.0/Donat3.csproj.CoreCompileInputs.cache
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/obj/Debug/net6.0/Donat3.dll
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/obj/Debug/net6.0/refint/Donat3.dll
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/obj/Debug/net6.0/Donat3.pdb
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/obj/Debug/net6.0/Donat3.genruntimeconfig.cache
+/Users/Sergey/Documents/Учеба С#/Donat/Donat3/obj/Debug/net6.0/ref/Donat3.dll
